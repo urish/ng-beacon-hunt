@@ -1,5 +1,7 @@
 # ng-beacon-hunt
 
+[![Join the chat at https://gitter.im/ng-beacon-hunt/Lobby](https://badges.gitter.im/ng-beacon-hunt/Lobby.svg)](https://gitter.im/ng-beacon-hunt/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the ng-beacon hunt game! 
 
 The goal of the game is to find all the ng-beacons in the conference venue, interact with them to get clues and solve puzzles. There are also awesome prizes: A ticket to ng-cruise, ng-beacon and a MiP robot. So what are you waiting for? Let's gets started!
