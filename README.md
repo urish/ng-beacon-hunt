@@ -16,8 +16,36 @@ Find the ng-beacon - it is in the food room. The beacon broadcasts a URL which y
 
 ### Android Users
 
-TBD
+First of all, make sure you have a working Internet connection (either Cellular or WiFi are good). 
+
+Then, make sure you enable Bluetooth and Location, as both are required to receive Physical Web URLs. After enabling them, lock and unlock your screen, and open the notification bar. You should see a notification similar to this one:
+
+** (( TODO - SCREEN SHOT )) **
+
+If you don't get the notification, go to your Android Device Settings and select the "Google" item in the settings menu. Then, choose "Nearby". You should see the link popping up there.
+
+Alternatively, you can open your Chrome browser, go to *Settings*, then *Privacy*, and at the bottom of the page, click on the *Physical Web* item, then click on the blue *See What's Nearby* button. This should scan for Physical Web pages around you, and show you the link. 
 
 ### iOS Users
 
-TBD
+First of all, make sure Bluetooth is on:
+
+** (( TODO - SCREEN SHOT )) **
+
+Then install [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome-the-fast-and-secure-web-browser/id535886823?mt=8) on your device, and add the Chrome widget to the *Today* tab of your notification center by clicking the *Edit* button at the bottom of the page:
+
+** (( TODO - SCREEN SHOT )) **
+
+Add the Chrome widget by clicking the green circle with the plus sign next to it:
+
+** (( TODO - SCREEN SHOT )) **
+
+Finally, go back to the *Today* tab and enable the Physical web notifications by clicking the *Show more* button:
+
+** (( TODO - SCREEN SHOT )) **
+
+and then clicking *OK, Got it*:
+
+** (( TODO - SCREEN SHOT )) **
+
+That's it! The Physical Web URL should appear in about 5 seconds.
