@@ -34,7 +34,7 @@ Alternatively, you can open your Chrome browser, go to *Settings*, then *Privacy
 
 First of all, make sure Bluetooth is on:
 
-!(Enable Bluetooth on iOS)[https://google.github.io/physical-web/assets/images/bluetooth_on.png]
+![Enable Bluetooth on iOS](https://google.github.io/physical-web/assets/images/bluetooth_on.png)
 
 Then install [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome-the-fast-and-secure-web-browser/id535886823?mt=8) on your device, and add the Chrome widget to the *Today* tab of your notification center by clicking the *Edit* button at the bottom of the page:
 
