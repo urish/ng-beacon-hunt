@@ -20,7 +20,11 @@ First of all, make sure you have a working Internet connection (either Cellular 
 
 Then, make sure you enable Bluetooth and Location, as both are required to receive Physical Web URLs. After enabling them, lock and unlock your screen, and open the notification bar. You should see a notification similar to this one:
 
-** (( TODO - SCREEN SHOT )) **
+![Website for this location found](https://cdn-images-1.medium.com/max/880/1*nWEB6VTJC4RCdebKbEFupQ.png)
+
+Then, opt-in to start receiving Physical Web notifications. Don't worry - these notifications are not intrusive, they don't make any sound and only appear when you open your notification drawer.
+
+![Nearby - I'm in!](https://cdn-images-1.medium.com/max/880/1*VLYaby421lw8X1mDr4LFyg.png)
 
 If you don't get the notification, go to your Android Device Settings and select the "Google" item in the settings menu. Then, choose "Nearby". You should see the link popping up there.
 
@@ -30,7 +34,7 @@ Alternatively, you can open your Chrome browser, go to *Settings*, then *Privacy
 
 First of all, make sure Bluetooth is on:
 
-** (( TODO - SCREEN SHOT )) **
+!()[]
 
 Then install [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome-the-fast-and-secure-web-browser/id535886823?mt=8) on your device, and add the Chrome widget to the *Today* tab of your notification center by clicking the *Edit* button at the bottom of the page:
 
