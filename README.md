@@ -53,3 +53,7 @@ Then clicking *OK, Got it*:
 ![Ok, got it](images/chrome-ok-got-it.png)
 
 That's it! The Physical Web URL should appear in about 5 seconds.
+
+## Get help
+
+Need help? Just go to our [Gitter chat](http://ngbeacon.io/chat) and ping us with your questions!
