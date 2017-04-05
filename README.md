@@ -50,6 +50,6 @@ Finally, go back to the *Today* tab and enable the Physical web notifications by
 
 Then clicking *OK, Got it*:
 
-![Ok, got it](https://google.github.io/physical-web/assets/images/opt_in.png)
+![Ok, got it](images/chrome-ok-got-it.png)
 
 That's it! The Physical Web URL should appear in about 5 seconds.
