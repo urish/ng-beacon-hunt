@@ -34,22 +34,18 @@ Alternatively, you can open your Chrome browser, go to *Settings*, then *Privacy
 
 First of all, make sure Bluetooth is on:
 
-!()[]
+!(Enable Bluetooth on iOS)[https://google.github.io/physical-web/assets/images/bluetooth_on.png]
 
 Then install [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome-the-fast-and-secure-web-browser/id535886823?mt=8) on your device, and add the Chrome widget to the *Today* tab of your notification center by clicking the *Edit* button at the bottom of the page:
 
-** (( TODO - SCREEN SHOT )) **
+![Edit Widget](https://google.github.io/physical-web/assets/images/edit_widget.png)
 
 Add the Chrome widget by clicking the green circle with the plus sign next to it:
 
-** (( TODO - SCREEN SHOT )) **
+![Add Chrome](https://google.github.io/physical-web/assets/images/widget_not_added.png)
 
-Finally, go back to the *Today* tab and enable the Physical web notifications by clicking the *Show more* button:
+Finally, go back to the *Today* tab and enable the Physical web notifications by clicking the *Show more* button, then clicking *OK, Got it*:
 
-** (( TODO - SCREEN SHOT )) **
-
-and then clicking *OK, Got it*:
-
-** (( TODO - SCREEN SHOT )) **
+![Ok, got it](https://google.github.io/physical-web/assets/images/opt_in.png)
 
 That's it! The Physical Web URL should appear in about 5 seconds.
