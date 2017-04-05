@@ -38,7 +38,7 @@ First of all, make sure Bluetooth is on:
 
 Then install [Chrome for iOS](https://itunes.apple.com/us/app/google-chrome-the-fast-and-secure-web-browser/id535886823?mt=8) on your device, and add the Chrome widget to the *Today* tab of your notification center by clicking the *Edit* button at the bottom of the page:
 
-![Edit Widget](https://google.github.io/physical-web/assets/images/edit_widget.png)
+![Edit Widget](images/ios-edit.png)
 
 Add the Chrome widget by clicking the green circle with the plus sign next to it:
 
@@ -54,6 +54,6 @@ Then clicking *OK, Got it*:
 
 That's it! The Physical Web URL should appear in about 5 seconds.
 
-## Get help
+## Get Help
 
 Need help? Just go to our [Gitter chat](http://ngbeacon.io/chat) and ping us with your questions!
