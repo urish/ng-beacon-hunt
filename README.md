@@ -44,7 +44,11 @@ Add the Chrome widget by clicking the green circle with the plus sign next to it
 
 ![Add Chrome](https://google.github.io/physical-web/assets/images/widget_not_added.png)
 
-Finally, go back to the *Today* tab and enable the Physical web notifications by clicking the *Show more* button, then clicking *OK, Got it*:
+Finally, go back to the *Today* tab and enable the Physical web notifications by clicking the *Show more* button:
+
+![Show more](images/chrome-show-more.png)
+
+Then clicking *OK, Got it*:
 
 ![Ok, got it](https://google.github.io/physical-web/assets/images/opt_in.png)
 
